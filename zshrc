@@ -69,3 +69,4 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export PATH=./bin:./node_modules/.bin:/Users/aa/.nvm/versions/node/v16.13.1/bin:/Users/aa/.rbenv/bin:/Users/aa/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/sbin:/opt/homebrew/bin:/opt/homebrew/bin
